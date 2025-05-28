@@ -1,8 +1,15 @@
 # Hızlıbahis - Veri Odaklı Oyun Tahmin Motoru
 
-Hızlıbahis, gerçek zamanlı veri işleme altyapısı ile kullanıcı davranışlarını analiz eden ve yapay zeka destekli tahmin modelleri sunan açık kaynaklı bir projedir. Oyun içi verilerin analizi sayesinde karar destek sistemlerinin daha verimli ve güvenilir hale getirilmesi amaçlanmaktadır.
+<a href="https://hizliortaklik.com/links/?btag=2426034" target="_blank">
+  <img src="https://github.com/user-attachments/assets/02bcf207-d820-43ee-a1f7-9af5115b2b16" alt="hizlibahis Banner" style="max-width: 100%;">
+</a>
+
+Hızlıbah1s ile en çok kazandıran oyunlara hemen erişin Gücel Resmi sayfamıza ilgili linklerden ulaşabilirsiniz.
 
 <a href="https://hizliortaklik.com/links/?btag=2426034" title="Hızlıbahis - Offical">Hızlıbahis - Offical</a>
+
+Hızlıbahis, gerçek zamanlı veri işleme altyapısı ile kullanıcı davranışlarını analiz eden ve yapay zeka destekli tahmin modelleri sunan açık kaynaklı bir projedir. Oyun içi verilerin analizi sayesinde karar destek sistemlerinin daha verimli ve güvenilir hale getirilmesi amaçlanmaktadır.
+
 ## 🚀 Projenin Amacı
 
 Modern web platformları, kullanıcı etkileşimlerinden büyük miktarda veri üretmektedir. Hızlıbahis projesi, bu verileri kullanarak sonuç odaklı tahmin mekanizmaları oluşturmayı hedefler. Sistem, özellikle oyun tabanlı platformlar için özelleştirilmiş analizler sunmakta ve anlık veri akışıyla çalışmaktadır.
